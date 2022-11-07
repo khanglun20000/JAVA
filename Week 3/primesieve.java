@@ -10,13 +10,15 @@ public class primesieve {
         BitSet array = sieve(n);
         for(int i = 0; i < q; i++) {
             if (array.get(sc.nextInt()))
-            System.out.println(1);
-            else System.out.println(0);
+                System.out.println(1);
+            else 
+                System.out.println(0);
         }
         array = null;
         sc.close();
 
     }
+    
     static BitSet sieve(int inputNumber) {
         BitSet array = new BitSet(inputNumber+1);
         int count = inputNumber-1;
