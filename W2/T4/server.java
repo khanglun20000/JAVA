@@ -1,3 +1,16 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Server
+* Link: https://open.kattis.com/contests/ggi5da/problems/server
+* @author Khang
+* @version 1.0, 10/26/2022
+* 
+* Method : For loop
+* Status : Accepted
+* Runtime: 0.1
+*/
+
+
 package Kattis2;
 import java.util.Scanner;
 
