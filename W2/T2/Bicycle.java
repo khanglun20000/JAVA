@@ -36,7 +36,6 @@ public class Bicycle {
         System.out.println("Start Cadence: " + this.cadence);
         System.out.println("Start Speed: " + this.speed);
         System.out.println("Start Gear: " + this.gear);
-
     }
         
 }
