@@ -1,3 +1,16 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Musical Notation
+* Link: https://open.kattis.com/contests/tbnznz/problems/musicalnotation
+* @author Khang
+* @version 1.0, 11/16/2022
+* 
+* Method : String
+* Status : Accepted
+* Runtime: 0.17
+*/
+
+
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.LinkedList;

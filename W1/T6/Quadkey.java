@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Identifying map tiles
+* Link: https://open.kattis.com/contests/mjt68e/problems/maptiles2
+* @author Khang
+* @version 5.0, 10/26/2022
+* 
+* Method : Math
+* Status : Accepted
+* Runtime: 0.15
+*/
+
 import java.util.Scanner;
 
 public class Quadkey {

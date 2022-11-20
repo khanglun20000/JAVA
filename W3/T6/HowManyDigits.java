@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: How many digits?
+* Link: https://open.kattis.com/contests/uk27ry/problems/howmanydigits
+* @author Khang
+* @version 1.0, 11/07/2022
+* 
+* Method : Simple math
+* Status : Accepted
+* Runtime: 0.39
+*/
+
 import java.util.Scanner;
 import java.lang.Math;
 

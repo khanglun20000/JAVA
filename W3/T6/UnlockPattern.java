@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Unlock Pattern
+* Link: https://open.kattis.com/contests/uk27ry/problems/unlockpattern
+* @author Khang
+* @version 1.0, 11/07/2022
+* 
+* Method : Prime
+* Status : Accepted
+* Runtime: 0.1
+*/
+
 import java.util.Scanner;
 
 public class UnlockPattern {

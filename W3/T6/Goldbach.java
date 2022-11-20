@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Goldbach's Conjecture
+* Link: https://open.kattis.com/contests/uk27ry/problems/goldbach2
+* @author Khang
+* @version 1.0, 11/07/2022
+* 
+* Method : Prime
+* Status : Accepted
+* Runtime: 0.85
+*/
+
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Arrays;

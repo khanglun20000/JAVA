@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Saving Day Light
+* Link: https://open.kattis.com/contests/tbnznz/problems/savingdaylight
+* @author Khang
+* @version 1.0, 11/16/2022
+* 
+* Method : String
+* Status : Accepted
+* Runtime: 0.29
+*/
+
 import java.util.Scanner;
 
 public class SavingDaylight {

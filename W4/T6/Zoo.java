@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Unbearable Zoo
+* Link: https://open.kattis.com/problems/zoo
+* @author Khang
+* @version 1.0, 11/16/2022
+* 
+* Method : String
+* Status : Accepted
+* Runtime: 0.21
+*/
+
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Boat Parts
+* Link: https://open.kattis.com/contests/uk27ry/problems/boatparts
+* @author Khang
+* @version 1.0, 11/07/2022
+* 
+* Method : ArrayList
+* Status : Accepted
+* Runtime: 0.13
+*/
+
 import java.util.Scanner;
 import java.util.HashSet;
 

@@ -1,3 +1,16 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Nasty Hacks
+* Link: https://open.kattis.com/contests/ggi5da/problems/nastyhacks
+* @author Khang
+* @version 1.0, 10/26/2022
+* 
+* Method : Simple math
+* Status : Accepted
+* Runtime: 0.12
+*/
+
+
 package Kattis2;
 import java.util.Scanner;
 

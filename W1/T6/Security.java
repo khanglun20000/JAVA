@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: False Sense of Security
+* Link: https://open.kattis.com/contests/mjt68e/problems/falsesecurity
+* @author Khang
+* @version 1.0, 10/26/2022
+* 
+* Method : Using 2 simultaneous arrays
+* Status : Accepted
+* Runtime: 0.82
+*/
+
 import java.util.Scanner;
 
 public class Security {

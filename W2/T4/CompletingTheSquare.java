@@ -1,3 +1,17 @@
+
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Completing the square
+* Link: https://open.kattis.com/contests/ggi5da/problems/completingthesquare
+* @author Khang
+* @version 1.0, 10/26/2022
+* 
+* Method : Simple math
+* Status : Accepted
+* Runtime: 0.13
+*/
+
+
 package Kattis2;
 import java.util.Scanner;
 

@@ -1,3 +1,16 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Ladder
+* Link: https://open.kattis.com/contests/mjt68e/problems/ladder
+* @author Khang
+* @version 6.0, 10/26/2022
+* 
+* Method : Use Math
+* Status : Accepted
+* Runtime: 0.09
+*/
+
+
 import java.util.Scanner;
 
 public class Ladder {

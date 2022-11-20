@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Bijele
+* Link: https://open.kattis.com/contests/mjt68e/problems/cudoviste
+* @author Khang
+* @version 1.0, 10/26/2022
+* 
+* Method : Brute force
+* Status : Accepted
+* Runtime: 0.16
+*/
+
 import java.util.Scanner;
 
 public class Cudoviste{

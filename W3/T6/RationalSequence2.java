@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Rational sequence 2
+* Link: https://open.kattis.com/contests/uk27ry/problems/rationalsequence2
+* @author Khang
+* @version 1.0, 11/07/2022
+* 
+* Method : Breadth fisrt search
+* Status : Accepted
+* Runtime: 0.27
+*/
+
 import java.util.Scanner;
 
 public class RationalSequence2{

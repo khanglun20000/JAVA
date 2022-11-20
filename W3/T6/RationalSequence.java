@@ -1,3 +1,16 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Rational Sequence
+* Link: https://open.kattis.com/problems/rationalsequence
+* @author Khang
+* @version 1.0, 10/26/2022
+* 
+* Method : Math
+* Status : Accepted
+* Runtime: 0.27
+*/
+
+
 import java.util.Scanner;
 
 public class RationalSequence{
