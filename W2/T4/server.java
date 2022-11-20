@@ -1,28 +1,29 @@
+package Kattis2;
 import java.util.Scanner;
-import java.util.Arrays;
 
-public class ProblemQ {
-    public static void main(String[] args){
-        Scanner myObj = new Scanner(System.in);
-        int n = myObj.nextInt();
-        int t = myObj.nextInt();
-        int total = 0;
-        int count = 0;
+public class Server {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int taskNum = sc.nextInt();
+        int totalMin = sc.nextInt();
+        int[] taskTimes = new int[taskNum];
 
-        int[] n_arr = new int[n];
-
-        for (int i=0; i<n; i++){
-            n_arr[i] = myObj.nextInt();
+        for(int i = 0; i < taskNum; i++){
+            taskTimes[i] = sc.nextInt();
         }
 
-        for (int i=0; i<n; i++){
-            total += n_arr[i];
-            if (total <= t){
-                count++;
+        sc.close();
+
+        int tasksCanDone = 0;
+        int minSum = 0;
+        for(int i = 0; i < taskNum; i++){
+            minSum += taskTimes[i];
+            if(minSum > totalMin){
+                break;
             }
+            tasksCanDone++;
         }
 
-        System.out.println(count);
-        myObj.close();
+        System.out.println(tasksCanDone);
     }
 }
