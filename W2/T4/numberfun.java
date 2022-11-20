@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class ProblemL {
+public class numberfun {
     public static void main(String[] args){
         Scanner myObj = new Scanner(System.in);
         int num = myObj.nextInt();

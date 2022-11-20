@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-public class ProblemF{
+public class hissingmicrophone{
     public static void main(String[] args){
         Scanner myObj = new Scanner(System.in); 
         String str = myObj.nextLine();
