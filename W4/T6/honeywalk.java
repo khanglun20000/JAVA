@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Honey Walk
+* Link: https://open.kattis.com/contests/tbnznz/problems/honey
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use dynamic programming to store subproblems and solve the problem using DP principle, represent honey walk as an array
+* Status : Accepted
+* Runtime: 0.10
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Vector;

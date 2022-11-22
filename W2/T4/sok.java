@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Sok
+* Link: https://open.kattis.com/contests/ggi5da/problems/sok
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use percentage to calculate
+* Status : Accepted
+* Runtime: 0.10
+*/
 import java.util.Objects;
 import java.util.Scanner;
 

@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Misa
+* Link: https://open.kattis.com/contests/mjt68e/problems/misa
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Represent seats as array of integer and iterate through every seat for Misa to get the maximum handshakes
+* Status : Accepted
+* Runtime: 0.33
+*/
 import java.util.Scanner;
 import java.util.Arrays;
 

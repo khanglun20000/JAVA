@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Welcome to code jam
+* Link: https://open.kattis.com/contests/tbnznz/problems/welcomeeasy
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use recursion for each letter needed to be found then move on with the next letter to be found
+* Status : Accepted
+* Runtime: 0.15
+*/
 import java.util.Scanner;
 
 public class jamcode {

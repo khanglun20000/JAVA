@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Secure Doors
+* Link: https://open.kattis.com/contests/tbnznz/problems/securedoors
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use array list of boolean and strings for status and names of each person, then check using the boolean list 
+* Status : Accepted
+* Runtime: 0.22
+*/
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;

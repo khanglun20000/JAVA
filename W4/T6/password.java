@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Password Hacking
+* Link: https://open.kattis.com/contests/tbnznz/problems/password
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use probability to calculate the mean
+* Status : Accepted
+* Runtime: 0.25
+*/
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Collections;

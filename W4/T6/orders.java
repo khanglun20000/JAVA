@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Bacon, Eggs, and Spam
+* Link: https://open.kattis.com/contests/tbnznz/problems/baconeggsandspam
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use arraylist to scan and store names and foods then use Collections.sort() to print it out aphabetically
+* Status : Accepted
+* Runtime: 0.27
+*/
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;

@@ -1,3 +1,15 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Just a Minute
+* Link: https://open.kattis.com/contests/mjt68e/problems/justaminute
+* @author Thanh
+* @version 1.0, 10/26/2022
+* 
+* Method : Using 2 simultaneous arrays
+* Status : Accepted
+* Runtime: 0.82
+*/
+
 import java.util.Scanner;
 
 public class train {

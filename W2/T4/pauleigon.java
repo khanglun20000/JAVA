@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Paul Eigon
+* Link: https://open.kattis.com/contests/ggi5da/problems/pauleigon
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use if statement to check if the score is divisible by the turnover
+* Status : Accepted
+* Runtime: 0.10
+*/
 import java.util.Objects;
 import java.util.Scanner;
 

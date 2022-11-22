@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: What does the fox say?
+* Link: https://open.kattis.com/contests/tbnznz/problems/whatdoesthefoxsay
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use arrays to store all sounds then eliminate each sound made by an animal that is not a fox
+* Status : Accepted
+* Runtime: 0.15
+*/
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Collections;

@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Bounding Robot
+* Link: https://open.kattis.com/contests/ggi5da/problems/boundingrobots
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Store variable and use if statements
+* Status : Accepted
+* Runtime: 0.25
+*/
 import java.util.Objects;
 import java.util.Scanner;
 

@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Mancala
+* Link: https://open.kattis.com/contests/ggi5da/problems/mancala
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use recursion and the pattern to calculate the stones position
+* Status : Accepted
+* Runtime: 0.34
+*/
 import java.util.Objects;
 import java.util.Scanner;
 import java.util.ArrayList;

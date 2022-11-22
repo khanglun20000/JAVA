@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Marko
+* Link: https://open.kattis.com/contests/mjt68e/problems/marko
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Nested loops with predefined string pad and check for every word in the coresponding number pad
+* Status : Accepted
+* Runtime: 0.28
+*/
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Objects;

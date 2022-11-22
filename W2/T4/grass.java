@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Grass Seed Inc.
+* Link: https://open.kattis.com/contests/ggi5da/problems/grassseed
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use array to store width and heights and then calculate using math
+* Status : Accepted
+* Runtime: 0.16
+*/
 import java.util.Objects;
 import java.util.Scanner;
 

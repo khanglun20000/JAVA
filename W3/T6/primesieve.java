@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Prime Sieve
+* Link: https://open.kattis.com/contests/uk27ry/problems/primesieve
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use dynamic programming and Sieve of Eratosthenes algorithm
+* Status : Accepted
+* Runtime: 1.80
+*/
 import java.util.Scanner;
 import java.util.BitSet;
 public class primesieve {

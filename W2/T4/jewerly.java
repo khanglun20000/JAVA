@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Jewerly Box
+* Link: https://open.kattis.com/contests/ggi5da/problems/jewelrybox
+* @author Thanh
+* @version 1.0, 11/20/2022
+* 
+* Method : Use derivative to calculate the maximum
+* Status : Accepted
+* Runtime: 0.74
+*/
 import java.util.Objects;
 import java.util.Scanner;
 
