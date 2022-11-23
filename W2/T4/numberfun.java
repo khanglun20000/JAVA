@@ -1,6 +1,16 @@
-import java.util.Scanner;
-import java.util.Arrays;
 
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Number Fun
+* Link: https://open.kattis.com/contests/ggi5da/problems/numberfun
+* @author Viet
+* @version 1.0, 11/01/2022
+* 
+* Method : Try every case
+* Status : Accepted
+* Runtime: 0.47
+*/
+import java.util.Scanner;
 public class numberfun {
     public static void main(String[] args){
         Scanner myObj = new Scanner(System.in);
