@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Hissing Microphone
+* Link: https://open.kattis.com/contests/ggi5da/problems/hissingmicrophone
+* @author Viet
+* @version 1.0, 10/29/2022
+* 
+* Method : Compare string
+* Status : Accepted
+* Runtime: 0.09
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 public class hissingmicrophone{
