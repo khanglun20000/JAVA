@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Scaling Recipe
+* Link: https://open.kattis.com/contests/mjt68e/problems/scalingrecipe
+* @author Viet
+* @version 1.0, 10/26/2022
+* 
+* Method : Basic math
+* Status : Accepted
+* Runtime: 0.10
+*/
 import java.util.Scanner;
 public class scalingrecipe{
     public static void main(String[] args){
@@ -14,5 +25,6 @@ public class scalingrecipe{
         for (int i=0; i<n; i++){
             System.out.println(arr_n[i]*y/x);
         }
+        myObj.close();
     }
 }
