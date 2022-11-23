@@ -1,3 +1,14 @@
+/**
+* Advanced Object Oriented Programming with Java, WS 2022
+* Problem: Left Beehind
+* Link: https://open.kattis.com/contests/uk27ry/problems/leftbeehind
+* @author Viet
+* @version 1.0, 11/08/2022
+* 
+* Method : if...else for every case
+* Status : Accepted
+* Runtime: 0.10
+*/
 import java.util.Scanner;
 public class leftbeehind {
     public static void main(String[] args){
